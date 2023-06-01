@@ -1,6 +1,6 @@
 # Proyecto de Sistema de inventario - FastAPI
 
-<img src="img/12.png" alt="Logo Inventory_system">
+<img src="img/12,1.png" alt="Logo Inventory_system">
 
 ## Descripción
 
